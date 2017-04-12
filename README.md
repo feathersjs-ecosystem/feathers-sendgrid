@@ -1,5 +1,7 @@
 # feathers-sendgrid
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-sendgrid.svg?token=33edfe63076a648c33a3ee5c254da163aa267575f39894a0da9aa7d90f98b898)](https://greenkeeper.io/)
+
 > A [SendGrid](https://sendgrid.com) Service for [FeatherJS](https://github.com/feathersjs).
 
 

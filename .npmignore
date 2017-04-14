@@ -1,8 +1,11 @@
 .babelrc
 .codeclimate.yml
-.jshintrc
 .travis.yml
 .idea/
 src/
 test/
 !lib/
+.github/
+coverage
+.editorconfig
+.istanbul.yml

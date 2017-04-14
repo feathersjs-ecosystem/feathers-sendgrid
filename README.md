@@ -23,6 +23,11 @@ For usage with some of the bundled hooks see the example below.
 
 This module comes with a couple bundled hooks that make it a bit easier to send email. These are **entirely optional**.
 
+- `renderTemplate`,
+- `normalizeEmail`,
+- `validateEmail`,
+- `sendEmail`
+
 ### Rendering Email Templates
 
 This hook renders a specific email `template` based on your express view `engine` with your `hook` object. It is meant to be used as a `before` hook on the a `create` method.

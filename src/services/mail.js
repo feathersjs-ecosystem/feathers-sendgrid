@@ -40,7 +40,8 @@ export class MailService {
         error = errors[response.statusCode];
 
         if (error) {
-          return reject(new Error('Error sending email to Sendgrid', body));
+          /* eslint new-cap: 0 */
+          return reject(new error('Error sending email to Sendgrid', body));
         }
 
         resolve({ sent: true });

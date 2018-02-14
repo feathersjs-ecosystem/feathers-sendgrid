@@ -2,15 +2,10 @@
 
 > A [SendGrid](https://sendgrid.com) Service for [FeatherJS](https://github.com/feathersjs).
 
+## Unmaintained
 
-[![Build Status](https://travis-ci.org/feathersjs/feathers-sendgrid.png?branch=master)](https://travis-ci.org/feathersjs/feathers-sendgrid)
-[![Code Climate](https://codeclimate.com/github/feathersjs/feathers-sendgrid.png)](https://codeclimate.com/github/feathersjs/feathers-sendgrid)
-[![Test Coverage](https://codeclimate.com/github/feathersjs/feathers-sendgrid/badges/coverage.svg)](https://codeclimate.com/github/feathersjs/feathers-sendgrid/coverage)
-[![Dependency Status](https://img.shields.io/david/feathersjs/feathers-sendgrid.svg?style=flat-square)](https://david-dm.org/feathersjs/feathers-sendgrid)
-[![Download Status](https://img.shields.io/npm/dm/feathers-sendgrid.svg?style=flat-square)](https://www.npmjs.com/package/feathers-sendgrid)
-[![Slack Status](http://slack.feathersjs.com/badge.svg)](http://slack.feathersjs.com)
+This module is no longer maintained. Use [feathers-mailer](https://github.com/feathersjs-ecosystem/feathers-mailer) with the [nodemailer-sendgrid-transport](https://github.com/sendgrid/nodemailer-sendgrid-transport) instead.
 
-**So far this only supports sending email. If you'd like additional functionality PRs are welcome! :smile:** 
 
 ## Installation
 
